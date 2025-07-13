@@ -51,34 +51,39 @@ Username: admin
 Password: admin123
 
 ### 📂 Project Structure
+## 📂 Project Structure
 
+```text
 EduManage/
-├── main.py              # App entry point
-├── database.py          # DB setup & default admin logic
-├── login.py             # Authentication logic
-├── splash.py            # Splash screen module
-├── edumanage.db         # SQLite database (sample/default)
-├── UserGuide.txt        # User manual
-├── icon.ico             # App icon
-│
-├── modules/             # Core feature modules
+├── main.py               # App entry point
+├── database.py           # DB setup & default admin logic
+├── login.py              # Authentication logic
+├── splash.py             # Splash screen module
+├── edumanage.db          # SQLite database (sample/default)
+├── UserGuide.txt         # User manual
+├── icon.ico              # App icon
+
+├── modules/              # Core feature modules
 │   ├── students.py
 │   ├── attendance.py
 │   ├── fee.py
 │   ├── settings.py
 │   └── admin_settings.py
-│
-└── utils/               # Utility functions
-    ├── encryption.py    # Password hashing
-    ├── id_manager.py    # ID generation logic
-    ├── role_guard.py    # Access control decorators
-    └── updater.py       # Auto-update system
+
+├── utils/                # Utility functions
+│   ├── encryption.py     # Password hashing
+│   ├── id_manager.py     # ID generation logic
+│   ├── role_guard.py     # Access control decorators
+│   └── updater.py        # Auto-update system
+---
 
 ### 🔄 Auto-Update System
 EduManage checks for updates on launch using a hosted version.json file. 
 If a newer version is available, users are prompted to download and install it.
 
 Update manifest: https://aashishmandal.github.io/edumanage-site/version.json
+
+---
 
 ### 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
