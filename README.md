@@ -93,4 +93,15 @@ Aashish Mandal Founder & Developer, EduManage
 ## 📢 Want to be notified of updates?  
 [Click here to subscribe to EduManage announcements](https://groups.google.com/g/edumanage-updates)
 
+## 🛡️ Windows SmartScreen Notice
+
+EduManage is a trusted educational tool developed by Aashish Mandal.  
+Because it's a new app, Windows may show a SmartScreen warning.
+
+To proceed:
+1. Click “More info”
+2. Click “Run anyway”
+
+EduManage does not harm your PC and is safe to use.
+
 
