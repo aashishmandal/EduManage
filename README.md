@@ -90,3 +90,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Aashish Mandal Founder & Developer, EduManage 
 📧 Email: aashishmandalofficial@gmail.com
 
+## 📢 Want to be notified of updates?  
+[Click here to subscribe to EduManage announcements](https://groups.google.com/g/edumanage-updates)
+
+
