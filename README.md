@@ -87,7 +87,7 @@ Update manifest: https://aashishmandal.github.io/edumanage-site/version.json
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 👤 Contact
-Aashish Mandal Founder & Developer, EduManage 
+Aashish Mandal Developer, EduManage 
 📧 Email: aashishmandalofficial@gmail.com
 
 ## 📢 Want to be notified of updates?  
